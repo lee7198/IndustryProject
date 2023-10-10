@@ -19,3 +19,7 @@
 ## Work
 
 1. [YOLO V8 학습 및 객체 탐지 실습](https://github.com/lee7198/IndustryProject/blob/main/assignments/yolov8/YOLOv8.ipynb)
+
+### ref
+
+- https://github.com/hwan1625/2023-Industry-Academia-Collaboration-Project
