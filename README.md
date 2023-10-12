@@ -19,10 +19,9 @@
 > - 학기 중에 프로젝트 팀을 구성하여 기업에서 제안한 SW개발 과제 프로젝트 공동 수행
 
 ## Works
-
 1. [YOLO V8 학습 및 객체 탐지 실습](https://github.com/lee7198/IndustryProject/blob/main/assignments/yolov8/YOLOv8.ipynb)
 
-## Procession
+## Process
 - [10.11 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1011.md)
 
 ### ref
