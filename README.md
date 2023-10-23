@@ -15,12 +15,14 @@
 
 > **산학협력 프로젝트란**?
 >
-> - 기업이 제안한 SW개발 과제 중심, 기업(멘토)-학생(멘티)이 현업하는 산학협력프로젝트 과정을 수행하여 현장실무+SW개발 역량 강화 및 조기 취업 달성을 위한 프로그램
+> - 기업이 제안한 SW개발 과제 중심, 기업(멘토) - 학생(멘티)이 현업하는 산학협력프로젝트 과정을 수행하여 현장실무 + SW개발 역량 강화 및 조기 취업 달성을 위한 프로그램
 > - 학기 중에 프로젝트 팀을 구성하여 기업에서 제안한 SW개발 과제 프로젝트 공동 수행
 
-## Work
-
+## Works
 1. [YOLO V8 학습 및 객체 탐지 실습](https://github.com/lee7198/IndustryProject/blob/main/assignments/yolov8/YOLOv8.ipynb)
+
+## Process
+- [10.11 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1011.md)
 
 ### ref
 
