@@ -1,8 +1,8 @@
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9aaacb51-7af0-4ad2-9983-74c58f95655d/c995625b-1681-48fa-b097-3a84fc1acb53/Untitled.png)
+![123123](https://github.com/lee7198/IndustryProject/assets/68184254/dc392505-a89a-423f-b5af-29378c604cd2)
 
 ## 딥러닝 네트워크 분류
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9aaacb51-7af0-4ad2-9983-74c58f95655d/a719589c-bddc-4f2c-bd19-4c975c9865e1/Untitled.png)
+![딥러닝네트워크분류](https://github.com/lee7198/IndustryProject/assets/68184254/6ed7b1a2-b00f-47ed-a5d0-b76c7779e2f6)
 
 - **1-Stage Detector** (YOLO, SSD …)
   - localization과 classification이 동시에 이루어집니다. 객체의 위치와 종류를 동시에 예측하는 단일 신경망 모델입니다.
