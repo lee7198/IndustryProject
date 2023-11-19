@@ -21,6 +21,7 @@
 ## Works
 1. [YOLO V8 학습 및 객체 탐지 실습](https://github.com/lee7198/IndustryProject/blob/main/assignments/yolov8/YOLOv8.ipynb)
 2. [객체 탐지 모델 리뷰](https://github.com/lee7198/IndustryProject/blob/main/assignments/model_review/review.md)
+3. [클라이언트 프로그램 개발](https://github.com/lee7198/industryClient)
 
 ## Process
 - [10.11 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1011.md)
