@@ -26,6 +26,7 @@
 ## Process
 - [10.11 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1011.md)
 - [10.23 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1023.md)
+- [11.20 멘토링](https://github.com/lee7198/IndustryProject/blob/main/meeting/1120.md)
 
 ### ref
 
